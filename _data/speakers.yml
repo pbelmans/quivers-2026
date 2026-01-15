@@ -1,0 +1,37 @@
+bocklandt:
+  name: Raf Bocklandt
+  affiliation: Universiteit van Amsterdam
+  website: http://algebra.hopto.org/wis/website
+
+goesmann:
+  name: Lydia Gösmann
+  affiliation: Ruhr-Universität Bochum
+  website: https://math.ruhr-uni-bochum.de/en/fakultaet/arbeitsbereiche/algebra/research-team-reineke/team/lydia-goesmann/
+
+holmes:
+  name: Daniel Holmes
+  affiliation: Institute of Science and Technology Austria
+  website: https://www.daniel-holmes.at
+
+holstege:
+  name: Matthijs Holstege
+  affiliation: Utrecht University
+
+meng:
+  name: Junyu Meng
+  affiliation: Université de Toulouse
+  website: https://sites.google.com/view/jmeng
+
+petrella:
+  name: Gianni Petrella
+  affiliation: University of Luxembourg
+  website: https://giannipetrella.eu
+
+vangarderen:
+  name: Okke van Garderen
+  affiliation: SISSA
+  website: https://okkevangarderen.nl
+
+zhang:
+  name: Pengcheng Zhang
+  affiliation: Universität Wuppertal

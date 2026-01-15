@@ -1,0 +1,23 @@
+- date: Monday, February 23
+  slots:
+    [
+      { time: "10:00&ndash;11:00", talk: meng },
+      { time: "11:00&ndash;11:30", other: "break" },
+      { time: "11:30&ndash;12:30", talk: holmes },
+      { time: "12:30&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;15:00", talk: bocklandt },
+      { time: "15:00&ndash;15:30", other: "break" },
+      { time: "15:30&ndash;16:00", talk: holstege },
+      { time: "16:15&ndash;16:45", talk: zhang },
+    ]
+
+- date: Tuesday, February 24
+  slots:
+    [
+      { time: "10:00&ndash;11:00", talk: petrella },
+      { time: "11:00&ndash;11:30", other: "break" },
+      { time: "11:30&ndash;12:00", talk: goesmann },
+      { time: "12:15&ndash;12:45", talk: },
+      { time: "12:45&ndash;14:00", other: "lunch" },
+      { time: "14:00&ndash;15:00", talk: vangarderen },
+    ]

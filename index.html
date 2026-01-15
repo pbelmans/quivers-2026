@@ -1,27 +1,41 @@
 ---
-title: Modern Methods in Moduli
-subtitle: workshop at the University of Luxembourg, November 25&ndash;27 2025
+title: Geometry of quiver moduli
+subtitle: workshop at Utrecht University, February 23 and 24, 2026
 layout: page
 hide_footer: true
 ---
 <h3>Description</h3>
-<p>The aim of the workshop is to stimulate interactions between various aspects of moduli theory,
-and its recent developments.
-It is a followup to <a href="https://moduli-2024.ncag.info">the workshop with the same name</a> that took place in 2024.
-<p>Everything about it is tentative at the time of writing.
+<p>As part of the <a href="https://www.uu.nl/en/research/utrecht-geometry-centre/research/ta-springer-chair">Springer Chair</a>
+being awarded to Markus Reineke,
+we are organising a 2-day workshop at Utrecht University,
+on the geometry of quiver moduli.
 
 <h3>List of speakers</h3>
-
+<ul class="names">
+{% for speaker_id in site.data.speakers %}
+{% assign speaker = speaker_id[1] %}
+  <li><span class="name">
+  {% if speaker.website %}
+    <a href="{{ speaker.website }}">{{ speaker.name }}</a>
+  {% else %}
+    {{ speaker.name }}
+  {% endif %}
+  </span>
+  {% if speaker.online %}
+    *
+  {% endif %}
+  (<span class="affiliation">{{ speaker.affiliation }}</span>)
+{% endfor %}
+</ul>
 
 <h3>Organisation</h3>
 <p>The workshop is organised by
 <ul>
-  <li><a href="https://pbelmans.ncag.info">Pieter Belmans</a> (University of Luxembourg)
-  <li><a href="https://sites.google.com/view/sarahscherotzke/">Sarah Scherotzke</a> (University of Luxembourg)
-  <li><a href="https://sites.google.com/view/nicolo-sibilla">Nicolò Sibilla</a> (SISSA)
+  <li><a href="https://pbelmans.ncag.info">Pieter Belmans</a> (Utrecht University)
+  <li><a href="https://webspace.science.uu.nl/~kool0009/">Martijn Kool</a> (Utrecht University)
 </ul>
 
-<p>The workshop is supported by the <a href="https://www.fnr.lu">Luxembourg National Research Fund</a>,
-through OPEN: AdEMAR (FNR–17113194)
-and OPEN: DeMoReSh (FNR-18107005).
-<p><a href="https://www.fnr.lu"><img src="/assets/fnr-logo.jpg" width="200"></a>
+<p>The workshop is supported by
+Utrecht University
+and <a href="https://nwo.nl">Dutch Research Council (NWO)</a>
+through <a href="https://cats.ncag.info">CatsINCAGe</a>
