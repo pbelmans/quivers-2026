@@ -1,0 +1,9 @@
+manopulo:
+  speaker: manopulo
+  title: Counting real sheaves on toric surfaces
+  abstract: In 1991, Klyachko proved a beautiful formula calculating the Euler characteristic of the moduli space of rank-two stable torsion-free sheaves on the complex projective plane with given Chern class. His method uses toric geometry and has been expanded and applied to prove different versions of the same computation for other surfaces, giving insight also to wall-crossing phenomena which aren't visible on the projective plane. After motivating the problem and recalling the basic constructions involved, we describe a readaptation of these methods for the real projective plane which generalizes to real models of other toric surfaces.
+
+zhang:
+  speaker: zhang
+  title: Degree of a Fano quiver moduli space
+  abstract: Given a quiver $Q$ and a dimension vector $\mathbf{d}$, the moduli space $X$ of $\theta$-stable representations of $Q$ with dimension vector $\mathbf{d}$ for some $\theta$ is a Fano variety if it satisfies a numerical condition. In this talk, we will explore how to compute the degree of $X$ in its Chow ring. One key technique is to reduce the calculation to the toric case where the dimension vector assigned to a quiver is 1. In the end, we will see a degree formula in the case of the bipartite quiver $K_{(2,q)}^m$.
