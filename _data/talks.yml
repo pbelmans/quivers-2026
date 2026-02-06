@@ -1,7 +1,17 @@
+holstege:
+  speaker: holstege
+  title: Resolutions of near-thin quiver moduli
+  abstract: In this talk, we translate Seshadri's resolution of the moduli space of vector bundles of rank $2$ and degree $0$ on a smooth projective curve to the setting of quiver moduli. This results in a resolution of the moduli space of $\theta$-polystable representations of $Q$ with dimension vector $\boldsymbol{d}$ in the case where $Q$ is any quiver, $d_i=2$ for all $i\in Q_0$, $\theta$ satisfies a genericity condition, and a $\theta$-stable representation of $Q$ with dimension vector $\boldsymbol{d}$ exists.
+
 manopulo:
   speaker: manopulo
   title: Counting real sheaves on toric surfaces
   abstract: In 1991, Klyachko proved a beautiful formula calculating the Euler characteristic of the moduli space of rank-two stable torsion-free sheaves on the complex projective plane with given Chern class. His method uses toric geometry and has been expanded and applied to prove different versions of the same computation for other surfaces, giving insight also to wall-crossing phenomena which aren't visible on the projective plane. After motivating the problem and recalling the basic constructions involved, we describe a readaptation of these methods for the real projective plane which generalizes to real models of other toric surfaces.
+
+meng:
+  speaker: meng
+  title: Dubrovin conjecture for the quiver moduli space $K_{(2,3)}^3$
+  abstract: We investigate the moduli space $K_{(2,3)}^3$ of quiver representations for the 3-Kronecker quiver with dimension vector $(2,3)$. It is a blow-down of $\operatorname{Hilb}^3\mathbb{P}^2)$ and comes with interesting embeddings into Grassmannians, giving rise to the universal quiver representation. We construct an Aut-invariant full exceptional sequence for its derived category and calculate its small quantum cohomology ring. These allow us to verify the (refined) Dubrovin conjecture relating full Lefschetz collection of derived category to the generic semisimplicity of the big quantum cohomology ring. This is based on a joint work with Svetlana Makarova.
 
 zhang:
   speaker: zhang
