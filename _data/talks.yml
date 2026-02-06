@@ -1,3 +1,11 @@
+goesmann:
+  speaker: goesmann
+  title: Motives of nullcones of quiver representations
+  abstract: >
+    <p>For a finite-dimensional complex representation of a complex reductive group, its nullcone already introduced by Hilbert, plays an important role in the study of the invariant ring, the orbit structure and the quotient map for the group action. A particularly interesting and accessible class of representations are the representation spaces of quivers with their base change action of a product of general linear groups. It is thus natural, both from the invariant-theoretic and from the quiver-theoretic point of view, to study the nullcones of representation spaces of quivers, which parametrize nilpotent representations. A qualitative study of the nullcone was accomplished by Le Bruyn adapting the Hesselink stratification of the nullcone and describing it in terms of loci of semistable representations for so-called level quivers.
+    <p>Building upon these results, we have studied these nullcones quantitatively, by describing their motives, that is their classes in the Grothendieck ring of complex varieties. We interprete the Hesselink stratification as an identity of motives, first yielding a positive summation formula for the nullcone, and culminating in a product formula relating the generating functions motives of nullcones to generating functions of semistable representations of level quivers, reminiscent of wall-crossing formulas. This is a joint work with Markus Reineke.
+
+
 holstege:
   speaker: holstege
   title: Resolutions of near-thin quiver moduli
