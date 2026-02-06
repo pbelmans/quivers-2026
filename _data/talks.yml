@@ -13,6 +13,13 @@ meng:
   title: Dubrovin conjecture for the quiver moduli space $K_{(2,3)}^3$
   abstract: We investigate the moduli space $K_{(2,3)}^3$ of quiver representations for the 3-Kronecker quiver with dimension vector $(2,3)$. It is a blow-down of $\operatorname{Hilb}^3\mathbb{P}^2)$ and comes with interesting embeddings into Grassmannians, giving rise to the universal quiver representation. We construct an Aut-invariant full exceptional sequence for its derived category and calculate its small quantum cohomology ring. These allow us to verify the (refined) Dubrovin conjecture relating full Lefschetz collection of derived category to the generic semisimplicity of the big quantum cohomology ring. This is based on a joint work with Svetlana Makarova.
 
+petrella:
+  speaker: petrella
+  title: Teleman quantisation applied to quiver moduli
+  abstract: >
+    <p>We apply Teleman quantization to the GIT construction of moduli spaces of representations of quivers. This allows us to prove that the universal bundle of fine quiver moduli spaces is a partial tilting object, confirming a conjecture of Schofield, and to give several constructions of strongly exceptional collections. Our results are effective and are implemented in the SageMath and Oscar computer algebra systems.
+    <p>This talk is based on joint work with Pieter Belmans, Ana-Maria Brecan, Hans Franzen and Markus Reineke.
+
 zhang:
   speaker: zhang
   title: Degree of a Fano quiver moduli space
