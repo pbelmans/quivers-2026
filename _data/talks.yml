@@ -32,6 +32,11 @@ petrella:
     <p>We apply Teleman quantization to the GIT construction of moduli spaces of representations of quivers. This allows us to prove that the universal bundle of fine quiver moduli spaces is a partial tilting object, confirming a conjecture of Schofield, and to give several constructions of strongly exceptional collections. Our results are effective and are implemented in the SageMath and Oscar computer algebra systems.
     <p>This talk is based on joint work with Pieter Belmans, Ana-Maria Brecan, Hans Franzen and Markus Reineke.
 
+vangarderen:
+  speaker: vangarderen
+  title: Categorifying knot operations
+  abstract: The knots-quivers correspondence relates certain invariants of knots and quivers, motivated by their meaning in string theory. Because knots are related by surgeries, this has lead to interesting new relations between generating series of different quivers. In this talk I will show how these relations can be understood in terms of the geometry of quiver moduli, leading to a categorification via the cohomological Hall algebras.
+
 zhang:
   speaker: zhang
   title: Degree of a Fano quiver moduli space
