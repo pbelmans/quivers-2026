@@ -1,3 +1,8 @@
+bocklandt:
+  speaker: bocklandt
+  title: Homotopy path algebras and blob representations
+  abstract: To a quiver embedded in a topological space one can associate its homotopy path algebra. For certain representations that correspond to a contractible blob of vertices and arrows, we show how one can calculate the Ext groups in terms of relative simplicial cohomology. We use this to study the relation between homotopy path algebras coming from different quivers that are related by contracting arrows in a blob. Joint work with Wenjun Huang
+
 goesmann:
   speaker: goesmann
   title: Motives of nullcones of quiver representations
