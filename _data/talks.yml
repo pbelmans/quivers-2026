@@ -39,8 +39,8 @@ petrella:
 
 shin:
   speaker: shin
-  title: Hochschild cohomology of quiver algebras coming from surface polygonalizations
-  abstract: In this talk, we study quiver algebras coming from polygonalizations of surfaces and investigate their Hochschild cohomology. From a surface polygonalization, we obtain a quiver and some relations, constructing a quiver algebra. We compare the Hochschild cohomology of this algebra with the topological cohomology of the surface. We show that the Hochschild cohomology has larger dimension, and that equality holds when the polygonalization is nondegenerate. If time permits, I will sketch the proof that if the dimension of the Hochschild cohomology is higher in degree 1, the surface must be a torus.
+  title: Hochschild cohomology of homotopy path algebras coming from surface polygonalizations
+  abstract: In this talk, we study homotopy path algebras coming from polygonalizations of surfaces and investigate their Hochschild cohomology. From a surface polygonalization, we obtain a quiver and some relations, constructing a homotopy path algebra. We compare the Hochschild cohomology of this algebra with the topological cohomology of the surface. We show that the Hochschild cohomology has larger dimension, and that equality holds when the polygonalization is nondegenerate. If time permits, I will sketch the proof that if the dimension of the Hochschild cohomology is higher in degree 1, the surface must be a torus.
 
 vangarderen:
   speaker: vangarderen
