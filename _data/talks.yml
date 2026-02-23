@@ -20,6 +20,11 @@ holstege:
   title: Resolutions of near-thin quiver moduli
   abstract: In this talk, we translate Seshadri's resolution of the moduli space of vector bundles of rank $2$ and degree $0$ on a smooth projective curve to the setting of quiver moduli. This results in a resolution of the moduli space of $\theta$-polystable representations of $Q$ with dimension vector $\boldsymbol{d}$ in the case where $Q$ is any quiver, $d_i=2$ for all $i\in Q_0$, $\theta$ satisfies a genericity condition, and a $\theta$-stable representation of $Q$ with dimension vector $\boldsymbol{d}$ exists.
 
+komatsu:
+  speaker: komatsu
+  title: Hochschild cohomology of homotopy path algebras coming from surface polygonalizations
+  abstract: In this talk, we study homotopy path algebras coming from polygonalizations of surfaces and investigate their Hochschild cohomology. We compare the Hochschild cohomology of this algebra with the topological cohomology of the surface. We show that the Hochschild cohomology has larger dimension, and that equality holds when the polygonalization is nondegenerate. If time permits, I will sketch the proof that if the dimension of the Hochschild cohomology is higher in degree 1, the surface must be a torus.
+
 manopulo:
   speaker: manopulo
   title: Counting real sheaves on toric surfaces
